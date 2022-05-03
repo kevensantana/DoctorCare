@@ -12,6 +12,8 @@
   --primary-color: hsl(170, 100%, 26%);
   --headline: hsl(210, 11%, 15%);
   --paragraph: hsl(210, 9%, 31%);
+  --green-light: hsl(148, 23%, 89%);
+
 }
 
 
@@ -28,6 +30,8 @@ header{
 
   margin-top: 4.1rem;
   padding: 2rem 2rem;
+
+  background: var(--green-light);
 }
 
 
